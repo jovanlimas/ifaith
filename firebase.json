@@ -1,5 +1,6 @@
 {
   "hosting": {
+    "target": "ipsalm",
     "public": "build",
     "ignore": [
       "firebase.json",

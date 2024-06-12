@@ -1,5 +1,16 @@
 {
   "projects": {
     "default": "ipsalms"
-  }
+  },
+  "targets": {
+    "ipsalms": {
+      "hosting": {
+        "ipsalm": [
+          "ipsalm"
+        ]
+      }
+    }
+  },
+  "etags": {},
+  "dataconnectEmulatorConfig": {}
 }
