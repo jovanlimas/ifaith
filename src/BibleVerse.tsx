@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import { Button, Container, Drawer, Grid, ListItemButton } from "@mui/material";
+import { Button, Container, Drawer, ListItemButton } from "@mui/material";
 
 const BibleVerse = (props: any) => {
   const [verses, setVerses] = useState<any[]>([]);
